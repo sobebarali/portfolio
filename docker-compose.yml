@@ -1,0 +1,22 @@
+services:
+  api:
+    build:
+      context: server/
+      dockerfile: Dockerfile
+    ports:
+      - '8000:8000'
+    env_file:
+      - server/.env
+  nextjs-app:
+    build:
+      context: client/
+      dockerfile: Dockerfile
+    ports:
+      - '3000:3000'
+    environment:
+      - NODE_ENV=production
+    env_file:
+      - client/.env  
+    depends_on:
+      - api
+  
