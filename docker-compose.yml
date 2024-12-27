@@ -1,7 +1,7 @@
 services:
   api:
     build:
-      context: server/
+      context: ./server
       dockerfile: Dockerfile
     ports:
       - '8000:8000'
@@ -9,7 +9,7 @@ services:
       - server/.env
   nextjs-app:
     build:
-      context: client/
+      context: ./client
       dockerfile: Dockerfile
     ports:
       - '3000:3000'
