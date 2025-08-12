@@ -14,9 +14,9 @@ const Landing: React.FC = () => {
             />
             {/* <h1 className="mt-2 text-3xl font-light">Sobebar Ali</h1> */}
             <p className="text-gray-500 text-lg font-light mt-2">
-              Software Engineer | AI Engineer
+              Software Engineer | Founding Engineer
               <br />
-              Kolkata, India
+              Guwahati, India
             </p>
             <div className="mt-4">
               <a
@@ -54,7 +54,7 @@ const Landing: React.FC = () => {
           <div className="w-full md:w-2/3 lg:w-3/4 flex-grow">
             <h2 className="text-xl md:text-2xl font-light">Biography</h2>
             <p className="text-sm sm:text-base md:text-lg mt-2 font-light">
-              Sobebar Ali is a Software Engineer with over 2 years of experience
+              Sobebar Ali is a Software Engineer with over 3 years of experience
               in building scalable web applications. He has a passion for
               developing high-performance systems, solving complex problems, and
               working with cutting-edge technologies like AI, cloud computing,
