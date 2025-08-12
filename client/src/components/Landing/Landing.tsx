@@ -32,7 +32,7 @@ const Landing: React.FC = () => {
                 <i className="fab fa-linkedin hover:scale-110"></i>
               </a>
               <a
-                href="https://tinyurl.com/sobebar-resume" // add your CV file to the public folder
+                href="https://drive.google.com/file/d/1nuazTzCfJxMBHitGdng72XyK1Lovf0gu/view?usp=drive_link" // add your CV file to the public folder
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-2xl mx-2 text-gray-600 hover:text-gray-600"

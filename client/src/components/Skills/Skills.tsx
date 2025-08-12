@@ -14,15 +14,15 @@ const Skills: React.FC = () => {
             skills={[
               {
                 iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
-                iconAlt: "JavaScript Logo",
-                name: "JavaScript",
-              },
-              {
-                iconSrc:
                   "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg",
                 iconAlt: "Typescript Logo",
                 name: "Typescript",
+              },
+               {
+                iconSrc:
+                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+                iconAlt: "JavaScript Logo",
+                name: "JavaScript",
               },
               {
                 iconSrc:
@@ -37,37 +37,37 @@ const Skills: React.FC = () => {
             skills={[
               {
                 iconSrc:
-                  "https://media.licdn.com/dms/image/v2/D560BAQGTObF4UNvy4A/company-logo_200_200/company-logo_200_200/0/1708009961301/langchain_logo?e=1743033600&v=beta&t=joFYlqFy6L494eq5qPRKWWR58jXdomPV-3bJDslALYc",
+                  "https://media.licdn.com/dms/image/v2/D560BAQGHpVAp9i7n5Q/company-logo_200_200/B56ZcyzK7qHgAI-/0/1748903964692/langchain_logo?e=1758153600&v=beta&t=Zksoq0lsv5qfBXjwb0PdMKQv08UkoGxhtqOC-WSQ-6w",
                 iconAlt: "LangChain Logo",
                 name: "LangChain",
               },
               {
                 iconSrc:
-                  "https://media.licdn.com/dms/image/v2/C4D0BAQFzIxlpQ0lAdA/company-logo_200_200/company-logo_200_200/0/1630556211624/huggingface_logo?e=1743033600&v=beta&t=uUR_mu-O9j92LUCLMi5C2gd-8YA9GrNO6h4x_1rI980",
+                  "https://huggingface.co/front/assets/huggingface_logo-noborder.svg",
                 iconAlt: "Hugging Face Logo",
                 name: "Hugging Face",
               },
               {
                 iconSrc:
-                  "https://media.licdn.com/dms/image/v2/D560BAQFbVTDw-oWXmw/company-logo_200_200/company-logo_200_200/0/1681327675102?e=1743033600&v=beta&t=wHv1VUEY_4Vy4Lvzyzk2QBm4zSJyfqfMFzoqja7Q6Sc",
+                  "https://media.licdn.com/dms/image/v2/D560BAQFbVTDw-oWXmw/company-logo_200_200/company-logo_200_200/0/1681327675102?e=1758153600&v=beta&t=AjJVw4wfY7R5X1fQA-ztYMFcr9CkazlFUthpctVxdOY",
                 iconAlt: "LlamaIndex Logo",
                 name: "LlamaIndex",
               },
               {
                 iconSrc:
-                  "https://media.licdn.com/dms/image/v2/C4E0BAQG0lRhNgYJCXw/company-logo_200_200/company-logo_200_200/0/1678382029963/openai_logo?e=1743033600&v=beta&t=knvxPYWWWFVHFCyneQrALdTv5VehwacpmumC25KcfXs",
+                  "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_200_200/B56ZT8EYB8HsAI-/0/1739395793272/openai_logo?e=1758153600&v=beta&t=EMLI41jFHCVTK8N-DUn8HQukuwD0M3TWl0tRwuyONVw",
                 iconAlt: "OpenAI Logo",
                 name: "OpenAI",
               },
               {
                 iconSrc:
-                  "https://media.licdn.com/dms/image/v2/D4E0BAQFMhKgeR7EYAg/company-logo_200_200/company-logo_200_200/0/1719256413073/anthropicresearch_logo?e=1743033600&v=beta&t=xzs9MxeeEnKBDl7z5MGzJ5pFbd4H0EcoKBzQWNPVcRU",
+                  "https://media.licdn.com/dms/image/v2/D4E0BAQFMhKgeR7EYAg/company-logo_200_200/company-logo_200_200/0/1719256413073/anthropicresearch_logo?e=1758153600&v=beta&t=scyyS78OTdgCwCnp4Q0dp4-6Ktu75-qSLcCtmNBlZHI",
                 iconAlt: "Claude Logo",
                 name: "Claude",
               },
               {
                 iconSrc:
-                  "https://media.licdn.com/dms/image/v2/C560BAQH-yCK5i0E6jA/company-logo_200_200/company-logo_200_200/0/1654720696784/groq_logo?e=1743033600&v=beta&t=gaGpYIqWaNc6cBCe8oTi_lXNvPW03uY-v4GSC6wzpwQ",
+                  "https://media.licdn.com/dms/image/v2/C560BAQH-yCK5i0E6jA/company-logo_200_200/company-logo_200_200/0/1654720696784/groq_logo?e=1758153600&v=beta&t=73Pk-JzL7x5CKLCGS-xInOquj_Rp4ptX0ECrfhcMwAs",
                 iconAlt: "Groq Logo",
                 name: "Groq",
               },
@@ -109,9 +109,9 @@ const Skills: React.FC = () => {
               },
               {
                 iconSrc:
-                  "https://media.licdn.com/dms/image/v2/C4E0BAQHYjma_4kJHhw/company-logo_200_200/company-logo_200_200/0/1630629175187/hypercube_systems_logo?e=1743033600&v=beta&t=QcRObheyAt37FCddfEcMpJIbz-RsnaUsOa95NZt8aAw",
-                iconAlt: "Pincone Logo",
-                name: "Pincone",
+                  "https://media.licdn.com/dms/image/v2/C4E0BAQHYjma_4kJHhw/company-logo_200_200/company-logo_200_200/0/1630629175187/hypercube_systems_logo?e=1758153600&v=beta&t=5cuDHIHS_zaaCHQcSakDHcsylfOBvlwl2TXduBBxZMs",
+                iconAlt: "Pinecone Logo",
+                name: "Pinecone",
               },
             ]}
           />
