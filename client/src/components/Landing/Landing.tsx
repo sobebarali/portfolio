@@ -8,7 +8,7 @@ const Landing: React.FC = () => {
           {/* Profile Section */}
           <div className="w-full md:w-1/3 lg:w-1/4 flex-shrink-0 text-center profile-section mb-10 sm:mb-0 mr-4">
             <img
-              src="https://i.ibb.co/3hjcTJQ/1703070659908-removebg-preview.png"
+              src="https://media.licdn.com/dms/image/v2/D5603AQEUH_JjlzR9Sg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731170233251?e=1758153600&v=beta&t=Gr03vHjgiLaXmXWhUVePcDjty1nSlcEkQTSpoOvbNso"
               alt="Sobebar Ali"
               className="w-64 h-64 object-cover rounded-full mx-auto"
             />
