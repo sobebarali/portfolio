@@ -14,9 +14,9 @@ const Landing: React.FC = () => {
             />
             {/* <h1 className="mt-2 text-3xl font-light">Sobebar Ali</h1> */}
             <p className="text-gray-500 text-lg font-light mt-2">
-              Software Engineer | Founding Engineer
+              Software Engineer
               <br />
-              Guwahati, India
+              Karnataka, India
             </p>
             <div className="mt-4">
               <a
