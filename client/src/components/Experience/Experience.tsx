@@ -16,7 +16,7 @@ const Experience: React.FC = () => {
           <div className="w-full lg:w-3/4 relative lg:pl-8">
             <ExperienceCard
               first
-              title="Foundingc Engineer"
+              title="Founding Engineer"
               company="Capri AI"
               location="Georgia, US (Remote)"
               dateRange="November 2023 - Present"
