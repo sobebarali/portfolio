@@ -16,7 +16,7 @@ const Experience: React.FC = () => {
           <div className="w-full lg:w-3/4 relative lg:pl-8">
             <ExperienceCard
               first
-              title="Founding AI Engineer"
+              title="Foundingc Engineer"
               company="Capri AI"
               location="Georgia, US (Remote)"
               dateRange="November 2023 - Present"
@@ -26,7 +26,7 @@ const Experience: React.FC = () => {
                 "Led integrations with CRM tools (e.g., GoHighLevel, HubSpot) and datasources (e.g., Google Calendar, Slack), automating 90% of manual tasks.",
                 "Resolved over 95% of user issues within 24 hours, maintaining a 98% user satisfaction rate.",
               ]}
-              logoUrl="https://media.licdn.com/dms/image/v2/D560BAQFMN0-M7Dmm6w/company-logo_200_200/company-logo_200_200/0/1683815009573?e=1758153600&v=beta&t=o0xPNZF9ElN7yZ3KbpiwLTIETmIX-MbdOWUoXwOH7tY"
+              logoUrl="/capri.jpeg"
               websiteUrl="https://capriai.us/"
             />
 
@@ -42,7 +42,7 @@ const Experience: React.FC = () => {
                 "Engineered a multi-SMTP email microservice for enhanced email deliverability, reducing bounce rates by 30%.",
                 "Developed a scalable Content Management Service with support for complex relational models.",
               ]}
-              logoUrl="https://media.licdn.com/dms/image/v2/C4D0BAQECk_tfGJjVDg/company-logo_200_200/company-logo_200_200/0/1630488944780/littlesaas_logo?e=1758153600&v=beta&t=bD61ZvgQWA0eBKslgcLzxrhWcVMFts4LIQMg33bX92g"
+              logoUrl="/littlesaas_logo.jpeg"
               websiteUrl="https://littlesaas.com/"
             />
           </div>
